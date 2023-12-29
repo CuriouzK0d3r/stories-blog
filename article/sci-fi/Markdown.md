@@ -7,7 +7,7 @@ author: Dash
 top: true
 hero: "/placeholder-hero.jpg"
 categories: 
-    - Demo
+    - sci-fi
 ---
 ## Headings
 

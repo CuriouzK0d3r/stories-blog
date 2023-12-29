@@ -1,12 +1,12 @@
 ---
-title: I bought a chair and here's what I learned
+title: Top 10 furniture design trends for 2022
 desc: Desc
 theme: normal
 pubDate: 2022/8/22 21:04:52
 author: Pouya
 hero: "/placeholder-about.jpg"
 categories: 
-    - Astro
+    - mystery
 ---
 
 Molestias laudantium dolorem impedit quam eaque suscipit voluptatem vel. Sit et sit autem quae dicta repellat magnam. Iste corporis nihil enim nobis. Ea omnis qui illo ratione. Et eius est mollitia.
