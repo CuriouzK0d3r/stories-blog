@@ -6,8 +6,8 @@ export const isProd = MODE === "production";
 export const pageSize = 10;
 
 export const siteInfo = {
-    siteName: "Art Theme",
-    siteDesc: "A Beautiful Blog To Record Life !",
+    siteName: "Short Stories",
+    siteDesc: "A Collection of short stories made as a hobby !",
     lang: "en-us",
     icon: "https://picsum.photos/96",
     avatar: "https://picsum.photos/96",
@@ -38,16 +38,11 @@ export const nav = [
         slug: "/about",
         children: [],
     },
-    {
-        title: "Contact",
-        slug: "/contact",
-        children: [],
-    },
-    {
-        title: "Demo",
-        slug: "/demo",
-        children: [],
-    },
+    // {
+    //     title: "Contact",
+    //     slug: "/contact",
+    //     children: [],
+    // }
 ];
 
 export const settings = {
